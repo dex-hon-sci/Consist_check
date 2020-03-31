@@ -1,0 +1,32 @@
+Mainfesto
+
+A small project to create a utility library for checking data/method 
+consistency.
+Matching and comparing seperate input.
+Eliminate redundant method/data.
+
+Basics
+
+file size/ dimension matching
+data type matching
+
+method break down and comparison
+
+Detecting uniqueness/anomaly
+
+outlier detection
+
+
+generic methods
+
+plotting(visualization for the difference)
+
+
+format conversion
+
+
+High level
+
+
+=============
+condition factory
